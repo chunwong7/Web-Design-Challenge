@@ -1,0 +1,35 @@
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 150px;
+}
+
+#nav-options {
+  color:white;
+}
+
+#header-info {
+  height: 60px;
+  padding-top: 20px;
+  padding-bottom: 5px;
+  margin-left: 70px;
+  font-size: 24px;
+  color: white;
+  background: teal;
+}
+
+.navbar-right-custom {
+  padding-top: 6px;
+  padding-right: 20px;
+}
+
+.images {
+  width: 200px;
+  height: 200px;
+}
+
+
+
